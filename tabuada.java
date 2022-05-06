@@ -19,5 +19,5 @@ public class atividade01 {
 			break;
 		}
 	}
-	}
+}
 }
